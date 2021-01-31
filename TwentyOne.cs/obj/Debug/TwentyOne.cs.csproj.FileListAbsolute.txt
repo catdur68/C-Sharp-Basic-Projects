@@ -1,0 +1,17 @@
+C:\Users\catdu\source\repos\TwentyOne.sln\TwentyOne.cs\bin\Debug\TwentyOne.cs.exe.config
+C:\Users\catdu\source\repos\TwentyOne.sln\TwentyOne.cs\bin\Debug\TwentyOne.cs.exe
+C:\Users\catdu\source\repos\TwentyOne.sln\TwentyOne.cs\bin\Debug\TwentyOne.cs.pdb
+C:\Users\catdu\source\repos\TwentyOne.sln\TwentyOne.cs\obj\Debug\TwentyOne.cs.csprojAssemblyReference.cache
+C:\Users\catdu\source\repos\TwentyOne.sln\TwentyOne.cs\obj\Debug\TwentyOne.cs.csproj.CoreCompileInputs.cache
+C:\Users\catdu\source\repos\TwentyOne.sln\TwentyOne.cs\obj\Debug\TwentyOne.cs.exe
+C:\Users\catdu\source\repos\TwentyOne.sln\TwentyOne.cs\obj\Debug\TwentyOne.cs.pdb
+C:\Users\catdu\OneDrive\Desktop\Basic-C-Sharp-projects\TwentyOne.cs\obj\Debug\TwentyOne.cs.csproj.CoreCompileInputs.cache
+C:\Users\catdu\OneDrive\Desktop\Basic-C-Sharp-projects\TwentyOne.cs\bin\Debug\TwentyOne.cs.exe.config
+C:\Users\catdu\OneDrive\Desktop\Basic-C-Sharp-projects\TwentyOne.cs\bin\Debug\TwentyOne.cs.exe
+C:\Users\catdu\OneDrive\Desktop\Basic-C-Sharp-projects\TwentyOne.cs\bin\Debug\TwentyOne.cs.pdb
+C:\Users\catdu\OneDrive\Desktop\Basic-C-Sharp-projects\TwentyOne.cs\bin\Debug\Casino.dll
+C:\Users\catdu\OneDrive\Desktop\Basic-C-Sharp-projects\TwentyOne.cs\bin\Debug\Casino.pdb
+C:\Users\catdu\OneDrive\Desktop\Basic-C-Sharp-projects\TwentyOne.cs\obj\Debug\TwentyOne.cs.csprojAssemblyReference.cache
+C:\Users\catdu\OneDrive\Desktop\Basic-C-Sharp-projects\TwentyOne.cs\obj\Debug\TwentyOne.cs.csproj.CopyComplete
+C:\Users\catdu\OneDrive\Desktop\Basic-C-Sharp-projects\TwentyOne.cs\obj\Debug\TwentyOne.cs.exe
+C:\Users\catdu\OneDrive\Desktop\Basic-C-Sharp-projects\TwentyOne.cs\obj\Debug\TwentyOne.cs.pdb
