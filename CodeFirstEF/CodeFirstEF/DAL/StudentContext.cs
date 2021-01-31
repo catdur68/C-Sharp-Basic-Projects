@@ -10,7 +10,7 @@ namespace CodeFirstEF.Models
     {
         public StudentContext(): base()
         {
-
+            Database.SetInitializer<StudentContext>(new CreateDatabaseIfNotExists<StudentContext>());
         }
 
         public DbSet<Student> Students { get; set; }
