@@ -1,6 +1,0 @@
-C:\Users\catdu\OneDrive\Desktop\Basic-C-Sharp-projects\Casino\bin\Debug\Casino.dll
-C:\Users\catdu\OneDrive\Desktop\Basic-C-Sharp-projects\Casino\bin\Debug\Casino.pdb
-C:\Users\catdu\OneDrive\Desktop\Basic-C-Sharp-projects\Casino\obj\Debug\Casino.csprojAssemblyReference.cache
-C:\Users\catdu\OneDrive\Desktop\Basic-C-Sharp-projects\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
-C:\Users\catdu\OneDrive\Desktop\Basic-C-Sharp-projects\Casino\obj\Debug\Casino.dll
-C:\Users\catdu\OneDrive\Desktop\Basic-C-Sharp-projects\Casino\obj\Debug\Casino.pdb
